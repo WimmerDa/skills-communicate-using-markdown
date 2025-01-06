@@ -4,3 +4,7 @@
 ``` C++
 int auto = 15;
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
